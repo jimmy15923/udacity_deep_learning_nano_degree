@@ -10,4 +10,4 @@ Here are the projects list
 - Translation Project
 - Generate Faces
 
-![my certificate of deep learning](download.pdf)
+![my certificate of deep learning](certificate.png)
